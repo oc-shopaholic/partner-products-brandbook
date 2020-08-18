@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**Plugin name:** _Add plugin name here._
+**URL:** _Add URL of the service this plugin integrates with here._
+**Description:** _Add plugin description here._
+
 _Add description here._
 
 **Default**
