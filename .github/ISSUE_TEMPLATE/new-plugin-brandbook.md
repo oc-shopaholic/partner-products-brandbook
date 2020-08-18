@@ -11,27 +11,30 @@ assignees: ''
 **URL:** _Add URL of the service this plugin integrates with here._
 **Description:** _Add plugin description here._
 
-_Add description here._
+Image requirements can be found [here](https://github.com/oc-shopaholic/partner-products-brandbook#plugins-kit).
 
-**Default**
-- [ ] icon.svg _(256×256px)_
-- [ ] icon-marketplace.png _(64×64px)_
-- [ ] icon-vkontakte.png _(1000×1000px)_
-- [ ] banner-marketplace.png _(837×348px)_
+**Icon**
+- [ ] icon.svg
+- [ ] icon-marketplace.png
+- [ ] icon-vkontakte.png
 
-Variations for promo campaigns (same sizes).
+**Banner**
+- [ ] banner-marketplace.png
+- [ ] banner-twitter.png
+- [ ] banner-facebook.png
+- [ ] banner-vkontakte.png
 
-**Black Friday**
+**Black Friday Edition**
 - [ ] icon-marketplace-blackfriday.png
-- [ ] icon-vkontakte-blackfriday.png (1000×1000px)
+- [ ] icon-vkontakte-blackfriday.png
 - [ ] banner-marketplace-blackfriday.png
 
-**Christmas**
+**Christmas Edition**
 - [ ] icon-marketplace-christmas.png
 - [ ] icon-vkontakte-christmas.png
 - [ ] banner-marketplace-christmas.png
 
-**Installs**
-- [ ] icon-marketplace-installs.png
-- [ ] icon-vkontakte-installs.png
-- [ ] banner-marketplace-installs.png
+**Installs Edition**
+- [ ] icon-marketplace-christmas.png
+- [ ] icon-vkontakte-christmas.png
+- [ ] banner-marketplace-christmas.png
