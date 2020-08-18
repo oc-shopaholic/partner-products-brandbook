@@ -1,9 +1,9 @@
 ---
 name: New plugin brandbook
 about: Issue for creating brandbook for a new plugin
-title: Create brandbook for %name% plugin
+title: Create brandbook for [name] plugin
 labels: plugin
-assignees: nastyafrosty
+assignees: ''
 
 ---
 
