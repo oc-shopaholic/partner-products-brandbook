@@ -1,5 +1,13 @@
 # Official partner products brandbook
 
+## Repository rules
+
+1. Commit new images to the `develop` branch. One commit should include images only for one product.
+2. Push your changes to the repository.
+3. Open a new PR to the `master` branch.
+
+>Please, note! All images (except `icon-marketplace.png` due to marketplace issue) will be automatically optimized using [crush.pics](https://crush.pics/) API.
+
 # Plugins Kit
 
 This is the complete brand book assets list for a plugin.
