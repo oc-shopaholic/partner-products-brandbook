@@ -35,6 +35,6 @@ Image requirements can be found [here](https://github.com/oc-shopaholic/partner-
 - [ ] banner-marketplace-christmas.png
 
 **Installs Edition**
-- [ ] icon-marketplace-christmas.png
-- [ ] icon-vkontakte-christmas.png
-- [ ] banner-marketplace-christmas.png
+- [ ] icon-marketplace-installs.png
+- [ ] icon-vkontakte-installs.png
+- [ ] banner-marketplace-installs.png
